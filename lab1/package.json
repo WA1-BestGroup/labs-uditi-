@@ -1,0 +1,17 @@
+{
+  "name": "lab1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "substring.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dayjs": "^1.10.4",
+    "es6-promise": "^4.2.8",
+    "promises": "^0.2.5",
+    "sqlite3": "^5.0.2"
+  }
+}
